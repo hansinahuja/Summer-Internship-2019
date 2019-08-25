@@ -1,2 +1,2 @@
-# summer-internship-2019
+# Summer-Internship-2019
 Some codes written by me during my summer internship.
